@@ -3,7 +3,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Blog</title>
+        <title>Project: BEng_Blog</title>
         <style>
             #runnerfeeling{
                 font-family: cursive ;
